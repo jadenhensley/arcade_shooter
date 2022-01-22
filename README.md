@@ -1,7 +1,12 @@
-# README.md template
+# Arcade Shooter
 
-# Usage
+A quick project I did in under 3 hours. Plays just like any other shoot'em'up game.
 
-# Installation
+# Screenshot
+<img src="" alt="screenshot">
+
 
 # What I learned
+
+- Randomly generating enemies
+- Parallax scroll background
