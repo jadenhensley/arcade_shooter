@@ -11,3 +11,6 @@ A quick project I did in under 3 hours. Plays just like any other shoot'em'up ga
 - Randomly generating enemies
 - Parallax scroll background
 - Muscle Memory (getting used to pygame / game development)
+
+
+Sprites are from <a href="https://www.kenney.nl/">kenney</a>
