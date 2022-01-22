@@ -21,10 +21,6 @@ ENEMY_IMAGES = [
     pygame.image.load(f"{PROJECT_PATH}/sprites/enemyRed1.png"),
 ]
 METEOR_IMAGES = [
-    pygame.image.load(f"{PROJECT_PATH}/sprites/meteorBrown_big1.png"),
-    pygame.image.load(f"{PROJECT_PATH}/sprites/meteorBrown_big2.png"),
-    pygame.image.load(f"{PROJECT_PATH}/sprites/meteorBrown_big3.png"),
-    pygame.image.load(f"{PROJECT_PATH}/sprites/meteorBrown_big4.png"),
     pygame.image.load(f"{PROJECT_PATH}/sprites/meteorGrey_med1.png"),
     pygame.image.load(f"{PROJECT_PATH}/sprites/meteorGrey_med2.png"),
     pygame.image.load(f"{PROJECT_PATH}/sprites/meteorGrey_small1.png"),
